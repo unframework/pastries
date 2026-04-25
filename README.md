@@ -7,6 +7,7 @@ Strudel samples.
 ```
 // During development
 samples('local:')
+// or samples('http://192.168.1.159:5432')
 
 // When done — swap to GitHub
 samples('github:unframework/pastries')
